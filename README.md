@@ -1,75 +1,113 @@
-🔗Link: https://guilhermewittmannescola.github.io/siteGuilhermeWittmannAgrinho2026/
-# 🌱 Agro Forte: Equilíbrio entre Produção e Meio Ambiente
+### 🔗Link: https://guilhermewittmannescola.github.io/siteGuilhermeWittmannAgrinho2026/
+# 🌱 Agro Futuro Brasil
 
 ## 📖 Sobre o Projeto
 
-Este projeto foi desenvolvido para o concurso **Agrinho 2026**, com o tema **“Agro Forte: Equilíbrio entre Produção e Meio Ambiente”**.
+O **Agro Futuro Brasil** é um site desenvolvido para o concurso **Agrinho 2026**, com o objetivo de apresentar uma visão sobre o futuro da agricultura brasileira entre os anos de **2030, 2040 e 2050**.
 
-O site tem como objetivo conscientizar as pessoas sobre a importância do agronegócio sustentável, mostrando que é possível aumentar a produção agrícola sem prejudicar a natureza. Através de informações, imagens e conteúdos educativos, o projeto destaca a relação entre tecnologia, sustentabilidade e preservação ambiental no campo.
+O projeto utiliza dados atuais da agricultura brasileira e projeções educativas para demonstrar como tecnologias como **Inteligência Artificial, sensores IoT, drones, satélites, Big Data e automação** poderão transformar o campo nos próximos anos.
 
----
-
-## 🌎 Tema Agrinho 2026
-
-O tema “Agro Forte: Equilíbrio entre Produção e Meio Ambiente” busca demonstrar como o desenvolvimento agrícola pode caminhar junto com a preservação da natureza.
-
-O projeto apresenta a importância:
-
-* Da agricultura sustentável;
-* Da preservação ambiental;
-* Do uso consciente dos recursos naturais;
-* Da tecnologia no campo;
-* Da valorização do produtor rural.
+Além de informar, o site busca conscientizar sobre a importância da inovação, da sustentabilidade e da produção responsável de alimentos.
 
 ---
 
-## 🎯 Objetivos do Projeto
+## 🎯 Objetivos
 
-* Incentivar a conscientização ambiental;
-* Mostrar a importância do agronegócio para a sociedade;
-* Demonstrar como tecnologia e sustentabilidade podem trabalhar juntas;
-* Valorizar o campo e os produtores rurais;
-* Informar sobre práticas agrícolas sustentáveis.
+* Apresentar dados atuais da agricultura brasileira;
+* Mostrar projeções para o agro em 2030, 2040 e 2050;
+* Explicar tecnologias que podem transformar o campo;
+* Demonstrar impactos econômicos e ambientais da inovação;
+* Incentivar a reflexão sobre sustentabilidade e segurança alimentar.
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## ✨ Funcionalidades
 
-Este projeto foi desenvolvido utilizando:
+### 📊 Panorama Atual
+
+Exibe informações sobre a produção agrícola brasileira, área cultivada e principais culturas do país.
+
+### 🕒 Linha do Tempo
+
+Mostra previsões para os anos de 2030, 2040 e 2050, destacando avanços em tecnologia, automação e sustentabilidade.
+
+### 🧪 Simulador Agro Futurista
+
+Permite selecionar um ano e visualizar projeções de:
+
+* Produção agrícola;
+* Automação no campo;
+* Uso eficiente da água;
+* Aplicação de Inteligência Artificial.
+
+### 🚜 Tecnologias do Futuro
+
+Apresenta tecnologias que podem revolucionar a agricultura, como:
+
+* Drones;
+* Inteligência Artificial;
+* Big Data;
+* Sensores IoT;
+* Satélites;
+* Biotecnologia.
+
+### 🌎 Impactos
+
+Mostra benefícios econômicos e ambientais relacionados à inovação no campo.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
 
 * HTML5
 * CSS3
 * JavaScript
+* Google Fonts (Inter e Space Grotesk)
 
 ---
 
-## 🌿 Sustentabilidade e Tecnologia
+## 📂 Estrutura do Projeto
 
-A tecnologia tem papel fundamental no desenvolvimento do agronegócio sustentável. Atualmente, diversas soluções ajudam produtores a reduzir impactos ambientais, aumentar a produtividade e preservar os recursos naturais.
+```text
+📁 projeto
+ ├── index.html
+ ├── style.css
+ ├── script.js
+ └── README.md
+```
 
-O projeto busca representar essa união entre inovação, produção e responsabilidade ambiental.
+---
+
+## 🎨 Destaques do Design
+
+* Interface moderna inspirada em dashboards tecnológicos;
+* Layout responsivo para computadores e dispositivos móveis;
+* Efeitos visuais com gradientes, animações e indicadores;
+* Tela de carregamento personalizada;
+* Navegação fluida entre as seções.
+
+---
+
+## 🚀 Como Executar
+
+1. Baixe ou clone o repositório;
+2. Abra o arquivo `index.html` em qualquer navegador moderno;
+3. Navegue pelo site e utilize o simulador para explorar os cenários futuros.
 
 ---
 
 ## 👨‍💻 Autor
 
-Projeto desenvolvido por **Guilherme Wittmann** para participação no concurso **Agrinho 2026**.
+**Guilherme Luiz Wittmann**
+
+Turma: **1º Ano A (Manhã)**
+
+Escola Estadual Rui Barbosa
+
+Nova Laranjeiras - Paraná
 
 ---
 
-## 📚 Aprendizados
+## 🌱 Mensagem Final
 
-Durante o desenvolvimento deste projeto foram trabalhados conhecimentos em:
-
-* Desenvolvimento web;
-* Estruturação de páginas HTML;
-* Estilização com CSS;
-* Programação com JavaScript;
-* Organização de conteúdo;
-* Design e criatividade.
-
----
-
-## 🌟 Considerações Finais
-
-Este projeto representa a importância do equilíbrio entre produção agrícola e preservação ambiental, mostrando que o futuro do agronegócio depende da sustentabilidade, da inovação e da consciência ambiental.
+A agricultura do futuro dependerá da união entre tecnologia, ciência e sustentabilidade. O Agro Futuro Brasil apresenta uma visão educativa de como o país pode produzir mais alimentos, reduzir desperdícios e preservar os recursos naturais para as próximas gerações.
