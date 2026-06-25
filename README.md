@@ -88,13 +88,6 @@ Mostra benefícios econômicos e ambientais relacionados à inovação no campo.
 
 ---
 
-## 🚀 Como Executar
-
-1. Baixe ou clone o repositório;
-2. Abra o arquivo `index.html` em qualquer navegador moderno;
-3. Navegue pelo site e utilize o simulador para explorar os cenários futuros.
-
----
 
 ## 👨‍💻 Autor
 
